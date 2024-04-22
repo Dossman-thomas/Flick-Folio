@@ -40,6 +40,11 @@ h1 {
   width: fit-content;
 }
 
+.no-movies {
+  color: white;
+  margin-top: 3rem;
+}
+
 .search {
   width: 71%;
   margin: 4rem 0 2rem;
