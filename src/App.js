@@ -4,7 +4,7 @@ import MovieCard from './Components/MovieCard';
 
 import './App.css';
 
-const API_URL = 'http://www.omdbapi.com/?apikey=9df7f521';
+const API_URL = 'https://www.omdbapi.com/?apikey=9df7f521';
 
 
 export default function App() {
